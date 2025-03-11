@@ -1,7 +1,7 @@
 # 🏥 Hospital Management System
 
 ## 📌 Overview
-This is a **Hospital Management System** built using C++, Singly Linked Lists Data Structure & OOP.  
+This is a **Hospital Management System** console application, built using C++, Singly Linked Lists Data Structure & OOP.  
 It provides essential functionalities for managing hospital operations such as patient records, doctor information, and appointments.
 
 ## ⚙️ Features
