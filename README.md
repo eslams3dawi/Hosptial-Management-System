@@ -27,9 +27,6 @@ It provides essential functionalities for managing hospital operations such as p
 3. Build and run the project
    
 ### 📄 Project Structure
-pgsql
-Copy
-Edit
 📂 Hospital-Management-System
  ┣ 📂 Hospital.08c2b3e7/x64/Debug/
  ┣ 📂 x64/Debug/
@@ -40,6 +37,7 @@ Edit
  ┣ 📜 Hospital Management System.vcxproj.filters
  ┣ 📜 Hospital Management System.vcxproj.user
  ┣ 📜 README.md
+
  
 ### 🤝 Contributing
 Feel free to fork the repo and submit pull requests. All contributions are welcome!
