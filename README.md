@@ -45,5 +45,3 @@ Feel free to fork the repo and submit pull requests. All contributions are welco
 
 ### 📜 License
 This project is open-source.
-
-#### Developed with ❤️ by Eslam S3dawi
